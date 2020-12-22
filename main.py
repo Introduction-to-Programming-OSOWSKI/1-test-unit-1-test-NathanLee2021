@@ -4,7 +4,7 @@ print (name("Nathan Lee"))
 
 def favorites(favColor, favNumber):
     return (favColor, favNumber)
-print (favorites("Blue, 7"))
+print (favorites("Blue", "7"))
 
 def bigAdd(x, y, z, a, b):
     return (x+y+z+a+b)
